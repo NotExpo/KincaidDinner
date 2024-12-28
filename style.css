@@ -21,7 +21,7 @@ input {
 }
 
 input#name {
-    width: 200px;
+    width: 50px;
     height: 30px;
 }
 
@@ -31,7 +31,7 @@ input#flavor {
 }
 
 input#egg {
-    width: 130px;
+    width: 120px;
     height: 30px
 }
 
